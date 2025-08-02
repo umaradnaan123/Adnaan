@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://adnaan-six.vercel.app/</title>
+  <link>https://adnaan-six.vercel.app/</link>
+
+<item>
+     <link>https://adnaan-six.vercel.app/</link>
+     <title>ProfileCraft Studio - GitHub Profile README Generator</title>
+     <description>Create stunning GitHub profile READMEs with ProfileCraft Studio. Modern, interactive generator with live preview and professional templates.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
