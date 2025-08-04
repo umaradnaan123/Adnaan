@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://adnaan-4uhpdwfqh-umaradnaan123s-projects.vercel.app/sitemap.xml
+
